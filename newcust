@@ -1,0 +1,10 @@
+<cashnet>result=0&
+     respmessage=success&
+     custcode=newcust&
+     lname=brevis&
+     fname=dewald&
+     email=test.edu&   
+     ippsourceamountcode=IPPBALANCE&
+     termcode=TESTTERM1&
+     amount=990&
+     ippsrcamtcnt=1</cashnet>
