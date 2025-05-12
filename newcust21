@@ -1,0 +1,10 @@
+<cashnet>result=0&
+     respmessage=success&
+     custcode=newcust21&
+     lname=Test&
+     fname=New&
+     email=test.edu&   
+     ippsourceamountcode=WDIPPBALANCE2&
+     termcode=FALL&
+     amount=1990&
+     ippsrcamtcnt=1</cashnet>
